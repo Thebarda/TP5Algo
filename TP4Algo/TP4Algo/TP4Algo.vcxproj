@@ -109,10 +109,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\adjpersqueue.cpp" />
-    <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\affPersTete.cpp" />
-    <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\calculerlongueurfile.cpp" />
-    <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\init_desinit.cpp" />
     <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\main.cpp" />
     <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\menu.cpp" />
     <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\supPersTete.cpp" />

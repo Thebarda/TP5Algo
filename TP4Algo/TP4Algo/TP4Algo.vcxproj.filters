@@ -15,18 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\adjpersqueue.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\affPersTete.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\calculerlongueurfile.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\init_desinit.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
