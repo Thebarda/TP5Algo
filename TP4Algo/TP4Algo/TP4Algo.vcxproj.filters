@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\adjpersqueue.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -30,5 +27,19 @@
     <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\init_desinit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\supPersTete.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\TP3_algo\TP3_1\TP3_1\main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

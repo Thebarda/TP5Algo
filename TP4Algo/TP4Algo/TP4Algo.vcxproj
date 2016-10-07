@@ -113,7 +113,12 @@
     <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\affPersTete.cpp" />
     <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\calculerlongueurfile.cpp" />
     <ClCompile Include="..\..\..\..\..\Dropbox\Semestre 3\algo\2 Eme S3\ALGO\TP3\init_desinit.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\main.cpp" />
+    <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\menu.cpp" />
+    <ClCompile Include="..\..\..\TP3_algo\TP3_1\TP3_1\supPersTete.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\TP3_algo\TP3_1\TP3_1\main.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
